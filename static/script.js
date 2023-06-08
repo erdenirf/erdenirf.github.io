@@ -1,6 +1,6 @@
 let final_transcript = "";
 let recognizing = false;
-let HOST = 'http://83.220.174.161:5005'
+let HOST = '://83.220.174.161:5005'
 
 const speechRecognition =
   window.SpeechRecognition || window.webkitSpeechRecognition;
